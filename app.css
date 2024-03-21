@@ -1,0 +1,46 @@
+h1
+{
+    text-decoration: underline;
+}
+.para-one{
+    background-color: green;
+
+}
+.para-two{
+    background-color: gold;
+}
+.para-one{
+    margin-top: 100px;
+    margin-bottom: 100px;
+    margin-right: 100px;
+    margin-left: 100px;
+    background-color: rgb(74, 64, 121);
+    border-color:darkred;
+    padding-top: 50px; 
+    padding-right: 30px;
+    padding-bottom: 50px;
+    padding-left: 50px;
+}
+.para-one img{
+    height: auto;
+    width: 20%;
+    float: right; 
+}
+.para-two{
+    margin-top: 100px;
+    margin-bottom: 100px;
+    margin-right: 100px;
+    margin-left: 100px; 
+    background-color: rgb(75, 55, 121); 
+    border-color: darkred;
+    padding-top: 50px; 
+    padding-right: 30px;
+    padding-bottom: 50px;
+    padding-left: 50px;
+}
+.para-two img{
+    height: auto;
+    width: 20%;
+    float: right;    
+}
+
